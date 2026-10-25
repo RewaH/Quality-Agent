@@ -1,0 +1,50 @@
+[ {
+  "tag" : "div",
+  "id" : null,
+  "name" : null,
+  "dataTest" : "login-container",
+  "type" : null,
+  "text" : "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_g"
+}, {
+  "tag" : "input",
+  "id" : "user-name",
+  "name" : "user-name",
+  "dataTest" : "username",
+  "type" : "text",
+  "text" : ""
+}, {
+  "tag" : "input",
+  "id" : "password",
+  "name" : "password",
+  "dataTest" : "password",
+  "type" : "password",
+  "text" : ""
+}, {
+  "tag" : "input",
+  "id" : "login-button",
+  "name" : "login-button",
+  "dataTest" : "login-button",
+  "type" : "submit",
+  "text" : "Login"
+}, {
+  "tag" : "div",
+  "id" : null,
+  "name" : null,
+  "dataTest" : "login-credentials-container",
+  "type" : null,
+  "text" : "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_g"
+}, {
+  "tag" : "div",
+  "id" : "login_credentials",
+  "name" : null,
+  "dataTest" : "login-credentials",
+  "type" : null,
+  "text" : "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_g"
+}, {
+  "tag" : "div",
+  "id" : null,
+  "name" : null,
+  "dataTest" : "login-password",
+  "type" : null,
+  "text" : "Password for all users:\nsecret_sauce"
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "id" : "TC-01",
+  "title" : "Valid credentials open the inventory"
+}, {
+  "id" : "TC-02",
+  "title" : "Invalid password shows an error"
+}, {
+  "id" : "TC-03",
+  "title" : "Locked-out user sees a locked message"
+}, {
+  "id" : "TC-04",
+  "title" : "Empty username shows a required error"
+}, {
+  "id" : "TC-05",
+  "title" : "Empty password shows a required error"
+}, {
+  "id" : "TC-06",
+  "title" : "Login error can be dismissed"
+} ]
